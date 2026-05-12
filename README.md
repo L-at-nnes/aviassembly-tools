@@ -1,6 +1,6 @@
 # aviassembly-tools
 
-A save editor for [Aviassembly](https://store.steampowered.com/app/2941660/Aviassembly/). Set your money, scrap, and advanced scrap to whatever you want without touching the game.
+A save editor for [Aviassembly](https://store.steampowered.com/app/2660460/Aviassembly/). Set your money, scrap, and advanced scrap to whatever you want without touching the game.
 
 ## What it edits
 
